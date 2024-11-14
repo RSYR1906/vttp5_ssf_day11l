@@ -14,3 +14,9 @@
 
 - run the application with a specific port number and logging level <br/>
   mvn spring-boot:run -Dspring-boot.run.arguments="--server.port=3000 --logging.level.root=TRACE"
+
+## Railway CLI
+
+- railway login -browserless
+- railway link
+- railway up
